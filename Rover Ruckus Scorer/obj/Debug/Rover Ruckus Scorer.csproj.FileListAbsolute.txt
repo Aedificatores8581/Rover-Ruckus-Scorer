@@ -1,0 +1,10 @@
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\bin\Debug\Rover Ruckus Scorer.exe.config
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\bin\Debug\Rover Ruckus Scorer.exe
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\bin\Debug\Rover Ruckus Scorer.pdb
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover Ruckus Scorer.csprojAssemblyReference.cache
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover_Ruckus_Scorer.ScorerForm.resources
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover_Ruckus_Scorer.Properties.Resources.resources
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover Ruckus Scorer.csproj.GenerateResource.cache
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover Ruckus Scorer.csproj.CoreCompileInputs.cache
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover Ruckus Scorer.exe
+C:\Users\Hunter Seachrist\source\repos\Rover Ruckus Scorer\Rover Ruckus Scorer\obj\Debug\Rover Ruckus Scorer.pdb
