@@ -31,19 +31,28 @@ namespace Rover_Ruckus_Scorer
                 totalScore      = 0;
             
             // Autonomous calculations
-            if (landedCheckBox.Checked)
+            if (oneLandedButton.Checked)
+            {
+                autoScore += 30;
+            } else if (twoLandedButton.Checked)
+            {
+                autoScore += 60;
+            }
+
+            if (oneMarkerPlacedButton.Checked)
+            {
+                autoScore += 15;
+            } else if (twoMarkersPlacedButton.Checked)
             {
                 autoScore += 30;
             }
 
-            if (claimedCheckBox.Checked)
-            {
-                autoScore += 15;
-            }
-
-            if (autoParkedCheckBox.Checked)
+            if (oneAutoParkedButton.Checked)
             {
                 autoScore += 10;
+            } else if (twoAutoParkedButton.Checked)
+            {
+                autoScore += 20;
             }
 
             if (goldKnockedCheckBox.Checked && !silverKnockedCheckBox.Checked)
@@ -68,19 +77,28 @@ namespace Rover_Ruckus_Scorer
             
 
             // End Game calc
-            if (latchedCheckBox.Checked)
+            if (oneLatchedButton.Checked)
             {
                 endGameScore += 50;
+            } else if (twoLatchedButton.Checked)
+            {
+                endGameScore += 100;
             }
 
-            if (partialParkCheckBox.Checked)
+            if (onePartiallyParkedButton.Checked)
             {
                 endGameScore += 15;
+            } else if (twoPartiallyParkedButton.Checked)
+            {
+                endGameScore += 30;
             }
 
-            if (totalParkCheckBox.Checked)
+            if (oneTotallyParkedButton.Checked)
             {
                 endGameScore += 25;
+            } else if(twoTotallyParkedButton.Checked)
+            {
+                endGameScore += 50;
             }
 
             // Final
